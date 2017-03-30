@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Testing Float button</string>
+    <string name="app_name">Kidup Childs app</string>
+    <string name="action_settings">Settings</string>
 </resources>
